@@ -1,1 +1,0 @@
-[<%tp.file.title%> Anki Cards](<%tp.file.title%>%20Anki%20Cards)
